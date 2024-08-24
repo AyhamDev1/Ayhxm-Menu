@@ -8,7 +8,8 @@ please star the repos for more updates 🙏💙⭐
 
 
 
-V1.4 --features
+V1.5 --features
+*Added Loadstring for better updating not manual copying.
 
 *Aimbot
 
